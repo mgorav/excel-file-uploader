@@ -12,7 +12,7 @@ import java.util.stream.Stream;
 
 
 /**
- * Created by xschen on 10/7/2016.
+ *
  */
 public class ExcelDataRowCollection implements Serializable, Iterable<ExcelDataRow> {
     private List<ExcelDataRow> rows = new ArrayList<>();
